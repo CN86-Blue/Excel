@@ -1,2 +1,2 @@
 # Excel
-Referecne for Excel formulars.
+Reference for Excel formulars.
